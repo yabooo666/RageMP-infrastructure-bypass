@@ -1,0 +1,11 @@
+HTTPS logger running at https://cdn.rgsvc.io, https://cdn-r2.rgsvc.io
+
+==============================
+GET /
+Host: cdn-emerg.rgsvc.io
+Headers: {
+  "host": "cdn-emerg.rgsvc.io",
+  "connection": "keep-alive"
+}
+==============================
+
