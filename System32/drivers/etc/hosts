@@ -20,9 +20,9 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-# 127.0.0.1 cdn.rgsvc.io 
-# 127.0.0.1 cdn-r2.rgsvc.io 
-# 127.0.0.1 cdn-emerg.rgsvc.io
-# 127.0.0.1 cdn.jsdelivr.net
-5.83.153.60 burnednodes
-5.83.153.61 burnednodes2
+ 127.0.0.1 cdn.rgsvc.io 
+ 127.0.0.1 cdn-r2.rgsvc.io 
+ 127.0.0.1 cdn-emerg.rgsvc.io
+ 127.0.0.1 cdn.jsdelivr.net
+# 5.83.153.60 burnednodes
+# 5.83.153.61 burnednodes2
